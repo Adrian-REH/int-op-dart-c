@@ -1,0 +1,6 @@
+# ninja log v5
+3	96	7106300068080312	CMakeFiles/hello_library.dir/hello.c.obj	c02395ce6e8566f8
+9	103	7106300068080312	CMakeFiles/hello_test.dir/hello.c.obj	eb34149ac43c229f
+103	468	7106300071477243	hello_test.exe	c63ca40f1e1ca4ef
+98	470	7106300071517306	hello.dll	fa6fb4e48a9e69ca
+98	470	7106300071517306	hello.lib	fa6fb4e48a9e69ca
